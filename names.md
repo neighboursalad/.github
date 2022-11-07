@@ -56,7 +56,7 @@
 |Noah Simmons |ELITEGameStudios |Advanced |
 |Sean Bacudio |Seanlmb |Beginner |
 |Adalyn Chen  | adalync | Beginner |
-|Jeska Maya Tubongbanua | | |
+|Jeska Maya Tubongbanua |neighboursalad |beginner |
 |Rena Ampofo| | |
 |Jessen Comia| | |
 |Abisherk Constantine | | |
